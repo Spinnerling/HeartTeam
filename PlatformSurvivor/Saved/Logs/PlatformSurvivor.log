@@ -717,3 +717,111 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-14.16.19:094][114]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.28-14.16.19:094][114]LogContentValidation: Display: Validating World /Game/Erik/Levels/Erik_test.Erik_test
 [2020.02.28-14.16.19:094][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Erik/Levels/Erik_test_BuiltData.Erik_test_BuiltData
+[2020.02.28-14.21.16:155][899]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.21.16:165][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.21.16:165][899]PIE: New page: PIE session: Erik_test (28 Feb 2020, 16:21:16)
+[2020.02.28-14.21.16:166][899]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.28-14.21.16:167][899]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.28-14.21.16:167][899]LogPlayLevel: Creating play world package: /Game/Erik/Levels/UEDPIE_0_Erik_test
+[2020.02.28-14.21.16:168][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000791s)
+[2020.02.28-14.21.16:168][899]LogAIModule: Creating AISystem for world Erik_test
+[2020.02.28-14.21.16:168][899]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2020.02.28-14.21.16:168][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Erik/Levels/Erik_test.Erik_test to /Game/Erik/Levels/UEDPIE_0_Erik_test.Erik_test (0.001806s)
+[2020.02.28-14.21.16:190][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.02.28-14.21.16:191][899]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-14.21.16:191][899]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-14.21.16:191][899]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-14.21.16:191][899]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-14.21.16:191][899]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-14.21.16:191][899]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-14.21.16:191][899]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-14.21.16:191][899]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-14.21.16:192][899]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-14.21.16:192][899]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: Name: T24i-10 (2- NVIDIA High Definition Audio)
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: Channel Order:
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-14.21.16:200][899]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-14.21.16:206][899]LogAudioMixer: Display: Using Audio Device T24i-10 (2- NVIDIA High Definition Audio)
+[2020.02.28-14.21.16:208][899]LogInit: FAudioDevice initialized.
+[2020.02.28-14.21.16:218][899]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.28-14.21.16:219][899]LogWorld: Bringing World /Game/Erik/Levels/UEDPIE_0_Erik_test.Erik_test up for play (max tick rate 0) at 2020.02.28-15.21.16
+[2020.02.28-14.21.16:219][899]LogWorld: Bringing up level for play took: 0.000386
+[2020.02.28-14.21.16:219][899]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.28-14.21.16:221][899]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.28-14.21.16:222][899]PIE: Play in editor start time for /Game/Erik/Levels/UEDPIE_0_Erik_test 0,44
+[2020.02.28-14.21.23:098][721]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.21.23:098][721]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.21.23:098][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.21.23:098][721]LogWorld: BeginTearingDown for /Game/Erik/Levels/UEDPIE_0_Erik_test
+[2020.02.28-14.21.23:098][721]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.21.23:098][721]LogWorld: UWorld::CleanupWorld for Erik_test, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-14.21.23:099][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.21.23:103][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.21.23:106][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.21.23:125][721]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.21.23:127][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.21.23:129][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.02.28-14.21.23:198][728]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.28-14.24.32:353][  1]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.24.32:364][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.24.32:364][  1]PIE: New page: PIE session: Erik_test (28 Feb 2020, 16:24:32)
+[2020.02.28-14.24.32:364][  1]LogPlayLevel: Creating play world package: /Game/Erik/Levels/UEDPIE_0_Erik_test
+[2020.02.28-14.24.32:365][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000745s)
+[2020.02.28-14.24.32:365][  1]LogAIModule: Creating AISystem for world Erik_test
+[2020.02.28-14.24.32:365][  1]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2020.02.28-14.24.32:365][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Erik/Levels/Erik_test.Erik_test to /Game/Erik/Levels/UEDPIE_0_Erik_test.Erik_test (0.001638s)
+[2020.02.28-14.24.32:387][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-14.24.32:388][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-14.24.32:388][  1]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-14.24.32:388][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: Name: T24i-10 (2- NVIDIA High Definition Audio)
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: Channel Order:
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-14.24.32:396][  1]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-14.24.32:403][  1]LogAudioMixer: Display: Using Audio Device T24i-10 (2- NVIDIA High Definition Audio)
+[2020.02.28-14.24.32:405][  1]LogInit: FAudioDevice initialized.
+[2020.02.28-14.24.32:411][  1]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.28-14.24.32:412][  1]LogWorld: Bringing World /Game/Erik/Levels/UEDPIE_0_Erik_test.Erik_test up for play (max tick rate 0) at 2020.02.28-15.24.32
+[2020.02.28-14.24.32:412][  1]LogWorld: Bringing up level for play took: 0.000328
+[2020.02.28-14.24.32:412][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.28-14.24.32:414][  1]PIE: Play in editor start time for /Game/Erik/Levels/UEDPIE_0_Erik_test 0,636
+[2020.02.28-14.24.34:024][194]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.24.34:035][194]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.28-14.24.34:055][194]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.28-14.24.34:055][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.24.34:055][194]LogWorld: BeginTearingDown for /Game/Erik/Levels/UEDPIE_0_Erik_test
+[2020.02.28-14.24.34:055][194]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.24.34:055][194]LogWorld: UWorld::CleanupWorld for Erik_test, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-14.24.34:055][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.24.34:063][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.24.34:066][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.24.34:085][194]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.24.34:087][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.24.34:089][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.28-14.24.34:127][198]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.28-14.25.03:516][363]LogActorFactory: Actor Factory created Cube
+[2020.02.28-14.25.04:003][421]LogActorFactory: Actor Factory created Cube
+[2020.02.28-14.25.05:723][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.28-14.25.05:736][609]LogSavePackage: Moving '../../../../../../Users/Gustav.Liden/Documents/GitHub/HeartTeam/PlatformSurvivor/Saved/Erik_test467D083E4D5C85BBB6EA2C9DED7DA8B9.tmp' to '../../../../../../Users/Gustav.Liden/Documents/GitHub/HeartTeam/PlatformSurvivor/Content/Erik/Levels/Erik_test.umap'
+[2020.02.28-14.25.05:768][609]LogSavePackage: Moving '../../../../../../Users/Gustav.Liden/Documents/GitHub/HeartTeam/PlatformSurvivor/Saved/Erik_test_BuiltDataF6CCAE1C4BFE18A8067BAC8D415DC548.tmp' to '../../../../../../Users/Gustav.Liden/Documents/GitHub/HeartTeam/PlatformSurvivor/Content/Erik/Levels/Erik_test_BuiltData.uasset'
+[2020.02.28-14.25.05:779][609]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.28-14.25.05:779][609]LogContentValidation: Display: Validating World /Game/Erik/Levels/Erik_test.Erik_test
+[2020.02.28-14.25.05:779][609]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Erik/Levels/Erik_test_BuiltData.Erik_test_BuiltData
