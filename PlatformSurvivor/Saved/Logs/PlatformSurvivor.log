@@ -2965,3 +2965,126 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-14.22.10:423][605]LogSavePackage: Moving 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Saved/BP_DestroyablePlatformA4F887714BCF0CF3748A78B29391EC36.tmp' to 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Content/OurStuff/Blueprints/BP_DestroyablePlatform.uasset'
 [2020.02.28-14.22.10:435][605]AssetCheck: New page: Asset Save: BP_DestroyablePlatform
 [2020.02.28-14.22.10:435][605]LogContentValidation: Display: Validating Blueprint /Game/OurStuff/Blueprints/BP_DestroyablePlatform.BP_DestroyablePlatform
+[2020.02.28-14.22.58:023][895]LogSavePackage: Moving 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Saved/BP_DestroyablePlatform0D109163443CD1F18054D18640B7C6C8.tmp' to 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Content/OurStuff/Blueprints/BP_DestroyablePlatform.uasset'
+[2020.02.28-14.22.58:038][895]AssetCheck: New page: Asset Save: BP_DestroyablePlatform
+[2020.02.28-14.22.58:038][895]LogContentValidation: Display: Validating Blueprint /Game/OurStuff/Blueprints/BP_DestroyablePlatform.BP_DestroyablePlatform
+[2020.02.28-14.23.49:057][209]BlueprintLog: New page: Compile BP_DestroyablePlatform
+[2020.02.28-14.23.49:371][209]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.02.28-14.23.49:597][223]LogSavePackage: Moving 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Saved/BP_DestroyablePlatform7E90AFBD4BC722B7B0FB3BB95DF897A2.tmp' to 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Content/OurStuff/Blueprints/BP_DestroyablePlatform.uasset'
+[2020.02.28-14.23.49:612][223]AssetCheck: New page: Asset Save: BP_DestroyablePlatform
+[2020.02.28-14.23.49:613][223]LogContentValidation: Display: Validating Blueprint /Game/OurStuff/Blueprints/BP_DestroyablePlatform.BP_DestroyablePlatform
+[2020.02.28-14.23.50:516][321]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.23.50:527][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.23.50:528][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.23.50:528][321]PIE: New page: PIE session: TopDownExampleMap (28 Feb 2020, 16:23:50)
+[2020.02.28-14.23.50:528][321]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.28-14.23.50:543][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014921s)
+[2020.02.28-14.23.50:544][321]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.28-14.23.50:544][321]LogPlayLevel: PIE: World Init took: (0.001399s)
+[2020.02.28-14.23.50:544][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016634s)
+[2020.02.28-14.23.50:589][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.02.28-14.23.50:590][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-14.23.50:590][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-14.23.50:590][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-14.23.50:590][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-14.23.50:590][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-14.23.50:590][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-14.23.50:590][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-14.23.50:591][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-14.23.50:591][321]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-14.23.50:591][321]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: Name: Focusrite USB (Focusrite USB Audio)
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: Sample Rate: 88200
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: Channel Order:
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-14.23.50:627][321]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-14.23.50:633][321]LogAudioMixer: Display: Using Audio Device Focusrite USB (Focusrite USB Audio)
+[2020.02.28-14.23.50:634][321]LogInit: FAudioDevice initialized.
+[2020.02.28-14.23.50:676][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.23.50:676][321]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.28-14.23.50:679][321]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.28-15.23.50
+[2020.02.28-14.23.50:680][321]LogWorld: Bringing up level for play took: 0.002838
+[2020.02.28-14.23.50:680][321]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.02.28-14.23.50:684][321]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,193
+[2020.02.28-14.23.50:684][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.23.56:286][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.23.56:286][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.23.56:286][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.23.56:286][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.23.56:286][973]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.28-14.23.56:299][973]LogSlate: Window 'PlatformSurvivor Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.28-14.23.56:303][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.23.56:303][973]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-14.23.56:304][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.23.56:316][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.23.56:316][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.23.56:322][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.23.56:361][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.23.56:368][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.02.28-14.23.56:389][974]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.28-14.24.07:861][206]LogSavePackage: Moving 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Saved/BP_DestroyablePlatformCD142C374C43F3ED42C81B996B6B8A68.tmp' to 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Content/OurStuff/Blueprints/BP_DestroyablePlatform.uasset'
+[2020.02.28-14.24.07:875][206]AssetCheck: New page: Asset Save: BP_DestroyablePlatform
+[2020.02.28-14.24.07:875][206]LogContentValidation: Display: Validating Blueprint /Game/OurStuff/Blueprints/BP_DestroyablePlatform.BP_DestroyablePlatform
+[2020.02.28-14.24.24:243][ 87]LogSavePackage: Moving 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Saved/TopDownCharacter9936EF8849E7E2929588A48CF02BAEC6.tmp' to 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.02.28-14.24.24:257][ 87]AssetCheck: New page: Asset Save: TopDownCharacter
+[2020.02.28-14.24.24:257][ 87]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.02.28-14.24.28:769][431]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.28-14.24.28:780][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.24.28:780][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.28-14.24.28:780][431]PIE: New page: PIE session: TopDownExampleMap (28 Feb 2020, 16:24:28)
+[2020.02.28-14.24.28:780][431]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.28-14.24.28:796][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015417s)
+[2020.02.28-14.24.28:797][431]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.28-14.24.28:797][431]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2020.02.28-14.24.28:797][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016614s)
+[2020.02.28-14.24.28:836][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.28-14.24.28:838][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.28-14.24.28:838][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.28-14.24.28:838][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.28-14.24.28:838][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.28-14.24.28:838][431]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.28-14.24.28:838][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.28-14.24.28:838][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.28-14.24.28:838][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.28-14.24.28:839][431]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.28-14.24.28:839][431]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: Name: Focusrite USB (Focusrite USB Audio)
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: Is Default: Yes
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: Sample Rate: 88200
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: Channel Order:
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.28-14.24.28:875][431]LogAudioMixer: Display: 1: FrontRight
+[2020.02.28-14.24.28:881][431]LogAudioMixer: Display: Using Audio Device Focusrite USB (Focusrite USB Audio)
+[2020.02.28-14.24.28:883][431]LogInit: FAudioDevice initialized.
+[2020.02.28-14.24.28:888][431]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.28-14.24.28:892][431]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.28-15.24.28
+[2020.02.28-14.24.28:893][431]LogWorld: Bringing up level for play took: 0.003291
+[2020.02.28-14.24.28:893][431]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.02.28-14.24.28:895][431]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0,404
+[2020.02.28-14.24.28:895][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.24.36:635][354]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.24.36:635][354]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.24.36:635][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.24.36:635][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.24.36:635][354]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.28-14.24.36:635][354]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.24.36:635][354]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-14.24.36:636][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.24.36:654][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.28-14.24.36:654][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.28-14.24.36:660][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-14.24.36:697][354]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.28-14.24.36:700][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-14.24.36:705][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.02.28-14.24.36:753][356]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.28-14.24.45:119][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.28-14.24.45:395][934]LogSavePackage: Moving 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Saved/TopDownExampleMap99995A4A40C3DCD27710448DCFADF934.tmp' to 'D:/Unreal Projects/TeamHeartsRealProject/HeartTeam/PlatformSurvivor/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.28-14.24.45:430][934]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2020.02.28-14.24.45:430][934]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
