@@ -72,3 +72,26 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+PlatformSurvivor/Saved/Logs/PlatformSurvivor.log
+PlatformSurvivor/Saved/Logs/PlatformSurvivor-backup-2020.03.02-15.02.06.log
+PlatformSurvivor/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+PlatformSurvivor/Saved/Config/CrashReportClient/UE4CC-Windows-EF98686F4106AF5A5D86EB866847CD17/CrashReportClient.ini
+PlatformSurvivor/Saved/Backup/Turret_2020-03-02-16-17-23.uasset
+PlatformSurvivor/Saved/Backup/TopDownExampleMap_2020-03-02-16-28-40.umap
+PlatformSurvivor/Saved/Backup/TopDownExampleMap_2020-03-02-16-17-22.umap
+PlatformSurvivor/Saved/Backup/Mat_DestroyablePlatform_Inst_2020-03-02-16-17-23.uasset
+PlatformSurvivor/Saved/Backup/Mat_DestroyablePlatform_Inst_2020-03-02-16-08-02.uasset
+PlatformSurvivor/Saved/Backup/BP_TurningPlatform_2020-03-02-16-34-41.uasset
+PlatformSurvivor/Saved/Backup/BP_DestroyablePlatform_2020-03-02-16-33-40.uasset
+PlatformSurvivor/Saved/Backup/BP_DestroyablePlatform_2020-03-02-16-28-40.uasset
+PlatformSurvivor/Saved/Autosaves/PackageRestoreData.json
+PlatformSurvivor/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+PlatformSurvivor/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+PlatformSurvivor/Saved/Autosaves/Game/OurStuff/Materials/All/Mat_DestroyablePlatform_Inst_Auto1.uasset
+PlatformSurvivor/Saved/Autosaves/Game/OurStuff/Blueprints/BP_DestroyablePlatform_Auto2.uasset
+PlatformSurvivor/Saved/Autosaves/Game/Jack/Turret_Auto1.uasset
+PlatformSurvivor/Intermediate/CachedAssetRegistry.bin
+PlatformSurvivor/Saved/Logs/PlatformSurvivor.log
+PlatformSurvivor/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+PlatformSurvivor/Saved/Autosaves/PackageRestoreData.json
+PlatformSurvivor/Intermediate/CachedAssetRegistry.bin
