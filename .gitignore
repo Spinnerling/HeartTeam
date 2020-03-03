@@ -201,3 +201,6 @@ PlatformSurvivor/Saved/Logs/PlatformSurvivor-backup-2020.02.28-15.49.34.log
 PlatformSurvivor/Saved/Logs/PlatformSurvivor.log
 PlatformSurvivor/Saved/Autosaves/PackageRestoreData.json
 PlatformSurvivor/Intermediate/CachedAssetRegistry.bin
+PlatformSurvivor/Saved/Logs/PlatformSurvivor.log
+*.log
+PlatformSurvivor/Saved/AutoScreenshot.png
